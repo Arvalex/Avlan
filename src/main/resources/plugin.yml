@@ -1,0 +1,8 @@
+name: Avlan
+version: ${project.version}
+main: me.fenish.avlan.Main
+api-version: 1.13
+authors: [Fenish]
+commands:
+  avlan:
+    usage: /avlan
