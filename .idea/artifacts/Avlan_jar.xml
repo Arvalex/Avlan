@@ -1,0 +1,9 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="Avlan:jar">
+    <output-path>$PROJECT_DIR$/../../../../local/plugins</output-path>
+    <root id="archive" name="Avlan.jar">
+      <element id="module-output" name="Avlan" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/de/erethon/headlib/3.0.2/headlib-3.0.2.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>
